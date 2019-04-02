@@ -1,1 +1,1 @@
-Trying to learn git ds
+Some scripts for Hackerrank
